@@ -1,4 +1,4 @@
-# open_data_resources
+# Open Data Resources
 This links below, are the most important sites about the Open Data concept.
 
 Abaixo, algumas fontes de Open Data disponibilziados inicialmente pela Data Science Academy do Brazil:
